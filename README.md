@@ -14,11 +14,11 @@
 <h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
 
 
-- 🔭 I just launched my first APP **Santo Terço**
+- 🔭 I just launched my first APP <a href="https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/"> Santo Terço</a>
 
 - 🌱 I’m currently learning **wordpress**
 
-- 📫 How to reach me **athauan.marques@gmail.com**
+- 📫 How to reach me [athauan.marques@gmail.com](https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/)
 
 - ⚡ Fun fact **I play guitar and go to the GYM very often**
 
