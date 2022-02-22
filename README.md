@@ -14,7 +14,7 @@
 <h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
 
 
-- 🔭 I just launched my first APP <a href="https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/"> Santo Terço</a>
+- 🔭 I just launched my first APP <a href="https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/" target="_blank"> Santo Terço</a>
 
 - 🌱 I’m currently learning **wordpress**
 
