@@ -16,7 +16,7 @@
 
 - 🔭 I just launched my first APP <a href="https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/" target="_blank"> Santo Terço</a>
 
-- 🌱 I’m currently learning **wordpress**
+- 🌱 I’m currently learning **NodeJs, MongoDB, ReactJs e Native**
 
 - 📫 How to reach me [athauan.marques@gmail.com](https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/)
 
