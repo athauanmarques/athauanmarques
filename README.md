@@ -1,5 +1,5 @@
 
-[![photo with green background, welcome description, linkedin access](img/capa.png)](https://www.linkedin.com/in/athauanmarques/)
+[![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/)
 
 <h1 align="center">Hi there <img src="img/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
