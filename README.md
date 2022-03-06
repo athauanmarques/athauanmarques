@@ -1,6 +1,7 @@
-
-[![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/)
-
+<div align="center">
+ <a herf="https://www.linkedin.com/in/athauanmarques/"><img src="img/capa.gif"></a>
+<!-- [![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/) -->
+</div>
 <h1 align="center">Hi there <img src="img/Hi.gif" width="30px"></h1>
 <h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
 
