@@ -1,5 +1,5 @@
 <div align="center">
- <a herf="https://www.linkedin.com/in/athauanmarques/"><img src="img/capa.gif"></a>
+ <a href="https://www.linkedin.com/in/athauanmarques/"><img src="img/capa.gif"></img></a>
 <!-- [![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/) -->
 </div>
 <h1 align="center">Hi there <img src="img/Hi.gif" width="30px"></h1>
