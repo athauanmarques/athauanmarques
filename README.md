@@ -2,7 +2,7 @@
  <a href="https://www.linkedin.com/in/athauanmarques/"><img src="img/capa.gif"></img></a>
 <!-- [![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/) -->
 </div>
-<h1 align="center">Hi there <img src="img/Hi.gif" width="10px"></h1>
+<h1 align="center">Hi there <img src="img/Hi.gif" width="5px"></h1>
 <h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
 
 - 🔭 I just launched my first APP <a href="https://athauanmarques.github.io/Chistus-Veritaque-Via-Web/" target="_blank"> Santo Terço</a>
