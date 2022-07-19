@@ -6,6 +6,8 @@
 
 - 🔭 I just launched my first APP <a href="https://github.com/athauanmarques/ChistusVeritaqueVia" target="_blank"> Santo Terço</a>
 
+- 👷 I'm working freelancer in <a href="https://agcfreproducoes.com" target="_blank">AGCF Reproduções</a>
+
 - 🌱 I’m currently learning **Bootcamp**
 
 - 📫 How to reach me athauan.marques@gmail.com
