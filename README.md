@@ -8,7 +8,7 @@
 
 - 👷 I'm working freelancer in <a href="https://agcfreproducoes.com" target="_blank">AGCF Reproduções</a>
 
-- 🌱 I’m currently learning **Bootcamp**
+- 🌱 I’m currently learning **AngularJS**
 
 - 📫 How to reach me athauan.marques@gmail.com
 
