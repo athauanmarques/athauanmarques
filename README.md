@@ -8,7 +8,7 @@
 
 - 👷 I'm working freelancer in <a href="https://agcfreproducoes.com" target="_blank">AGCF Reproduções</a>
 
-- 🌱 I’m currently learning <a href="https://github.com/athauanmarques/formacao-front-end">AngularJS</a>
+- 🌱 I’m currently learning <a href="https://github.com/athauanmarques/formacao-javascript">AngularJS</a>
 
 - 📫 How to reach me athauan.marques@gmail.com
 
