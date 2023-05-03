@@ -1,5 +1,5 @@
 <div align="center">
- <a href="https://www.linkedin.com/in/athauanmarques/"><img src="img/capa-novo.gif"></img></a>
+ <a href="https://athauanmarques.github.io/trabalhos"><img src="img/capa-novo.gif"></img></a>
 <!-- [![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/) -->
 </div>
 <h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
