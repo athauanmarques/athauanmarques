@@ -8,7 +8,7 @@
 
 - 👷 My Portfolio <a href="https://agcfreproducoes.com](https://athauanmarques.github.io/trabalhos/" target="_blank">My Works</a>
 
-- 🌱 I’m currently learning <a href="https://github.com/athauanmarques/formacao-javascript">AngularJS</a>
+- 🌱 I’m currently learning <a href="https://github.com/athauanmarques/formacao-javascript">AngularJS and React Native</a>
 
 - 📫 How to reach me athauan.marques@gmail.com
 
