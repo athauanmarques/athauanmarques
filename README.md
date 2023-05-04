@@ -11,7 +11,7 @@
     <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="4.8s" begin="0s" repeatCount="indefinite"/>
   </path>
   <text font-size="60" font-family="'Inconsolata', monospace;" fill='#E9974E'>
-    <textPath xlink:href="#path">WELCOME TO MY GITHUB PROFILE!</textPath>
+    <textPath xlink:href="#path">WELCOME TO MY GITHUB PROFILE</textPath>
   </text>
 </svg>
 
@@ -21,7 +21,7 @@
 
  - 🔭 I just launched my first APP <a href="https://github.com/athauanmarques/ChistusVeritaqueVia" target="_blank"> Santo Terço</a>
 
-- 👷 My Portfolio <a href="https://agcfreproducoes.com](https://athauanmarques.github.io/trabalhos/" target="_blank">My Works</a>
+- 👷 My Portfolio <a href="https://athauanmarques.github.io/trabalhos" target="_blank">My Works</a>
 
 - 🌱 I’m currently learning <a href="https://github.com/athauanmarques/formacao-javascript">AngularJS and React Native</a>
 
