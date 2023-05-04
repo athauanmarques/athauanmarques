@@ -4,7 +4,7 @@
 
 
 <div align="center">
- <a href="https://athauanmarques.github.io/trabalhos/"><img src="img/devweb.gif" height="150px"></img> <br>
+<img src="img/devweb.gif" height="150px"></img> <br>
 
   <svg width="50%" height="50%" viewBox="0 50 1000 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  <path id="path">
@@ -14,7 +14,7 @@
     <textPath xlink:href="#path">WELCOME TO MY GITHUB PROFILE!</textPath>
   </text>
 </svg>
-</a>
+
 <h3><img src="img/Hi.gif" height = "32px">Hi there! I'm Athauan Marques!</h3>
 
 </div>
