@@ -1,10 +1,25 @@
-<div align="center">
- <a href="https://athauanmarques.github.io/trabalhos"><img src="img/capa-novo.gif"></img></a>
-<!-- [![photo with green background, welcome description, linkedin access](img/capa.gif)](https://www.linkedin.com/in/athauanmarques/) -->
-</div>
-<h3 align="center">A passionate about technology, cryptocurrencies and communities</h3>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@900&display=swap" rel="stylesheet">
 
-- 🔭 I just launched my first APP <a href="https://github.com/athauanmarques/ChistusVeritaqueVia" target="_blank"> Santo Terço</a>
+
+<div align="center">
+ <a href="https://athauanmarques.github.io/trabalhos/"><img src="img/devweb.gif" height="150px"></img> <br>
+
+  <svg width="50%" height="50%" viewBox="0 50 1000 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+ <path id="path">
+    <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="4.8s" begin="0s" repeatCount="indefinite"/>
+  </path>
+  <text font-size="60" font-family="'Inconsolata', monospace;" fill='#E9974E'>
+    <textPath xlink:href="#path">WELCOME TO MY GITHUB PROFILE!</textPath>
+  </text>
+</svg>
+</a>
+<h3><img src="img/Hi.gif" height = "32px">Hi there! I'm Athauan Marques!</h3>
+
+</div>
+
+ - 🔭 I just launched my first APP <a href="https://github.com/athauanmarques/ChistusVeritaqueVia" target="_blank"> Santo Terço</a>
 
 - 👷 My Portfolio <a href="https://agcfreproducoes.com](https://athauanmarques.github.io/trabalhos/" target="_blank">My Works</a>
 
@@ -13,6 +28,9 @@
 - 📫 How to reach me athauan.marques@gmail.com
 
 - ⚡ Fun fact **I play guitar and go to the GYM very often**
+
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
