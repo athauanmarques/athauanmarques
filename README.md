@@ -5,16 +5,6 @@
 
 <div align="center">
 <img src="img/devweb.gif" height="150px"></img> <br>
-
-  <svg width="50%" height="50%" viewBox="0 50 1000 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
- <path id="path">
-    <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="4.8s" begin="0s" repeatCount="indefinite"/>
-  </path>
-  <text font-size="60" font-family="'Inconsolata', monospace;" fill='#E9974E'>
-    <textPath xlink:href="#path">WELCOME TO MY GITHUB PROFILE</textPath>
-  </text>
-</svg>
-
 <h3><img src="img/Hi.gif" height = "32px">Hi there! I'm Athauan Marques!</h3>
 
 </div>
