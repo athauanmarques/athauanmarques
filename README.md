@@ -11,7 +11,7 @@
 
  - 🔭 I just launched my first APP <a href="https://github.com/athauanmarques/ChistusVeritaqueVia" target="_blank"> Santo Terço</a>
 
-- 👷 My Portfolio <a href="https://athauanmarques.github.io/portofolio" target="_blank">My Works</a>
+- 👷 My Portfolio <a href="https://athauanmarques.github.io/portfolio" target="_blank">My Works</a>
 
 - 🌱 I’m currently learning <a href="https://github.com/athauanmarques/formacao-javascript">AngularJS and React Native</a>
 
