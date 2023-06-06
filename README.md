@@ -9,7 +9,7 @@
 🌱I'm on my way to learn more about Frontend, Systems Design and User Experience.<br>
 ✍️In my free time, I try to study graphic design, cryptocurrencies and writing blogs as hobbies/side activities.<br>
 💬Feel free to contact me for pro bono consulting and volunteering, or just for an interesting discussion.<br>
-✉️You can send me an email to athauan.marques@gmail.com ! I'll try to answer as soon as I can.<br>
+✉️You can send me an email to <a href="mailto:athauan.marques@gmail.com">athauan.marques@gmail.com </a> ! I'll try to answer as soon as I can.<br>
 📄 Please have a look at <a href="https://athauanmarques.github.io/portfolio" target="_blank">my portfolio</a> for more details about me. I'm open to criticism and suggestions!<br>
 
 <h3 align="left">🛠Tech Stack</h3>
