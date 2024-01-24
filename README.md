@@ -1,5 +1,5 @@
 <div align="center">
-<img src="img/devweb.gif" height="150px"></img> <br>
+<img src="img/cartao.png" height="250px"></img> <br>
 <h3><img src="img/Hi.gif" height = "32px">Hi there! I'm Athauan Marques!</h3>
 
 </div>
